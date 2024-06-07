@@ -1,8 +1,8 @@
 {
     "name": "Holy #001",
     "symbol": "HOLY",
-    "description": "Holy Nft is a collction of sacred pictures",
-    "image": "https://raw.githubusercontent.com/Michael2004-ukpeh/mint-cnft/master/assets/pexels-pixabay-45975.jpg?token=GHSAT0AAAAAACQORBWXKWMDI7UPXXSGBKTQZTCV3HA",
+    "description": "Holy Nft is a collection of sacred pictures",
+    "image": "https://raw.githubusercontent.com/Michael2004-ukpeh/assets/f7205ec6e2952d34d1efa7efc95ed3e254923be6/church.jpg",
     "attributes": [
         {
             "trait_type": "Holy",
@@ -12,7 +12,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/Michael2004-ukpeh/mint-cnft/master/assets/pexels-pixabay-45975.jpg?token=GHSAT0AAAAAACQORBWXKWMDI7UPXXSGBKTQZTCV3HA",
+                "uri": "https://raw.githubusercontent.com/Michael2004-ukpeh/assets/f7205ec6e2952d34d1efa7efc95ed3e254923be6/church.jpg",
                 "type": "image/jpg"
             }
         ],
