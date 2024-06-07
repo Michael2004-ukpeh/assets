@@ -2,11 +2,11 @@
     "name": "Holy Collection",
     "symbol": "HOLY",
     "description": "Holy Nft is a collction of sacred pictures",
-    "image": "https://raw.githubusercontent.com/Michael2004-ukpeh/mint-cnft/master/assets/pexels-pixabay-45975.jpg?token=GHSAT0AAAAAACQORBWXKWMDI7UPXXSGBKTQZTCV3HA",
+    "image": "https://raw.githubusercontent.com/Michael2004-ukpeh/assets/master/pexels-pixabay-45975.jpg",
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/Michael2004-ukpeh/mint-cnft/master/assets/pexels-pixabay-45975.jpg?token=GHSAT0AAAAAACQORBWXKWMDI7UPXXSGBKTQZTCV3HA",
+                "uri": "https://raw.githubusercontent.com/Michael2004-ukpeh/assets/master/pexels-pixabay-45975.jpg",
                 "type": "image/jpg"
             }
         ],
